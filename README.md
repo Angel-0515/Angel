@@ -2,9 +2,8 @@
 
 ## 🧑‍💻 Software Engineer | Remote Developer | C# | ASP.NET Core | Blazor | NancyFX
 
-I'm a full-time remote software engineer working with modern .NET technologies. Recently, I started sharing more of my work publicly on GitHub as I take on freelance projects through Upwork.
-
-While most of my work has been in private repositories or for clients, I'm gradually open-sourcing personal tools, demo apps, and snippets to showcase my skills.
+Welcome to my little corner of the internet—a space where I explore code purely for the joy of it. 
+This isn’t my primary professional portfolio, but rather a creative playground for experiments, side projects, and ideas that pique my curiosity.
 
 ### 🔧 Tech Stack
 - **Languages:** C#
